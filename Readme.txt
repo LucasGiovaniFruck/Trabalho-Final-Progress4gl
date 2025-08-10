@@ -1,4 +1,4 @@
-Sistema de Gestão - Hamburgueria XTudo
+# Sistema de Gestão - Hamburgueria XTudo
 Feito por Lucas Giovani Fruck
 
 Descrição do Projeto:
@@ -40,4 +40,5 @@ Selecione a database xtudo e clique novamente em Apply and Close.
 Passo 3)
 No Project Explorer dentro da pasta encontre o arquivo "menu.p", clique com o botão direito e 
 vá em Run As e selecione Progress OpenEdge Application.
+
 
